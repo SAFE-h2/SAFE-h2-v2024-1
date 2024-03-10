@@ -1,6 +1,6 @@
 Example Dataset:
 
-This is a simulated genotypic-dataset. It includes 1000 genotypes and 200000 variants.
+This is a simulated genotypic-dataset. It includes 1000 genotypes and 200000 variants. The example dataset can be downloaded from DOI: 10.6084/m9.figshare.24025728, Link: https://figshare.com/s/7193d332894f11deb1a5.
 
 
 A.
