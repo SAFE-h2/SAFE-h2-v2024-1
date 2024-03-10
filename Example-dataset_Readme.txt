@@ -23,7 +23,7 @@ run:
 C.    
 For analysis by minimizing the false-positive contributions, the user needs to copy MAIN.bed, MAIN.bim, MAIN.fam, MainPs, MAIN1.fam, Main1Ps, MAIN2.fam, Main2Ps, MAIN3.fam, Main3Ps, MAIN4.fam, Main4Ps, MAIN5.fam, Main5Ps, MAIN6.fam, and Main6Ps into the SAFE-h2 folder.
 
-Open the Prog.config for configurations (set PURE_Effects (X6) to 1, to select heritability models: the default is EMMAX, see the manual)
+Open the Prog.config for configurations (set PURE_Effects (X7) to 1, to select heritability models: the default is EMMAX, see the manual)
 run:
 python3 SAFE-h2.py
 
