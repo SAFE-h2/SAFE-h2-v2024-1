@@ -26,8 +26,9 @@ J)	pip install pyfiglet
 4)	Download GCTA-1.94.1-linux-kernel-3 binary file from: https://yanglab.westlake.edu.cn/software/gcta/#Download
 5)	Download LDAK5.2.linux binary file from: https://dougspeed.com/downloads2/
 6)	Download EMMAX-beta-07Mar2010 binary files from: http://csg.sph.umich.edu//kang/emmax/download/index.html
-7)	Unpack the SAFE-h2 zip file.
-8)	Move the binary files into the SAFE-h2 folder (rename the binaries to plink, plink2, gcta, ldak, emmax, emmax-kin, and gemma).
+7)	Download gemma-0.98.5-linux-static-AMD64 binary file from: https://github.com/genetics-statistics/GEMMA/releases/tag/v0.98.5
+8)      Unpack the SAFE-h2 zip file.
+9)	Move the binary files into the SAFE-h2 folder (rename the binaries to plink, plink2, gcta, ldak, emmax, emmax-kin, and gemma).
 Usage:
 1) Prepare and put the bfiles and the GWAS p-value file into the SAFE-h2 folder. SAFE- h2 uses these files as input. The bfiles should be named as “MAIN.fam, MAIN.bed, and MAIN.bim”. The p-value file should be named MainPs. It is a tab-delimited text file with three columns as:
 SNP1_ID	2.04562	9.5E-10
