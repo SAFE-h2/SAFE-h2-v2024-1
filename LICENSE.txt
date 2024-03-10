@@ -1,0 +1,13 @@
+SAFE-h2 is a free software under the Attribution-NonCommercial-NoDerivatives 4.0 International license (CC-BY-NC-ND 4.0 International license).
+
+
+Citation:
+Behrooz Darbani and Mogens Nicolaisen. SNP Allocation For Estimating Heritability (SAFE-h2): A tool to explore genomic origins of phenotypes for estimation of SNP heritability using additive-only allelic effects or additive and non-additive allelic effects. doi: https://doi.org/10.1101/2023.08.28.555092 
+Contact: behroozdarbani@gmail.com , bds@rsyd.dk 
+Department of Agroecology, Faculty of Technical Sciences, Aarhus University, Slagelse, Denmark
+ 
+
+
+
+
+
