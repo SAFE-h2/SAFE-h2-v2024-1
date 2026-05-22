@@ -1,3 +1,6 @@
+There is an updated version at https://github.com/SAFE-h2/SAFE-h2-v2026-1
+
+
 SAFE-h2 Manual
 SAFE-h2 is a python script designed for estimation of SNP heritability. It provides heritability profiles and thereby improves estimation accuracy of SNP heritability. SAFE-h2 not only prevents the biologically meaningless negative contributions to heritability made by SNPs with large p-values (defined as “unassociated”) but also avoids the contribution of false-positive SNP hits. It can also extract intra-locus non-additive allelic effects and estimate the heritability by considering both the additive and non-additive allelic effects. This also makes it possible to perform GWAS using linear models while covering non-additive allelic effects.
 Citation:
